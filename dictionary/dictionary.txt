@@ -1,0 +1,248 @@
+affix->attach or fasten
+again->once more
+apple->red fruit
+appear->become visible
+amnesia->loss of memory
+anode->an anode with positive charge
+architect->a person who designs buildings
+attic->a room inside the roof of a building
+aware->having knowledge of something
+axe->iron tool
+babble->foolish or confused talk
+bask->lie in the sun
+bedlam->a noisy cunfused scene
+bistro->a small inexpensive restaurant
+branch->a part of a tree
+boom->a loud sound
+brawl->a noisy fight
+brutal->violent
+bulge->a rounded swelling
+bypass->a road passing round the town
+cable->a thick rope
+cavity->a hollow space
+century->period of 100 years
+chat->talk in informal way
+clan->group of related families
+clear->easy to see
+coincide->happen at the same time
+covid->a dangerous disease
+coy->pretending to be shy
+crew->people working on a ship
+crush->press as to squash
+cuff->the end part of a sleeve
+cut->open a wound
+cyan->a greenish blue color
+cycle->a recurring series of events
+daily->every day
+dare->to have courage to do
+decease->death
+decide->think about and choose
+delay->postpone
+deserve->be worthy of
+diligent->careful
+disclaim->deny responsibility
+doe->a femmale dear
+doubt->feeling of uncertainity
+drag->pull with effort
+dwarf->unusually small person
+dyslexia->disorder involving difficulty in reading
+early->before the expected time
+echo->a repetition of sound
+edgy->tense or irritable
+elope->run away secretly
+employ->give work to someone and pay them for it
+enigma->a mysterious thing
+escape->get free from
+event->a thing that happens
+exhale->breathe out
+fable->a story with a moral
+fake->not genuine
+feeble->weak
+feisty->spirited and lively
+fetch->go for and bring back
+few->a small number
+filthy->dirty
+flip->turn over
+forget->unable to remember
+fragile->easily broken
+fuss->unnecessary excitement
+gadget->a small mechanical device
+gap->a break or hole
+generate->create or produce
+genre->a style of art or literature
+glare->stare angriliy
+glory->fame
+golf->an outdoor game
+gossip->casual talk about other people
+grand->large and impressive
+gravel->small stones
+grove->a group of trees
+gulp->swallow
+gun->a weapon
+halt->stop suddenly
+handy->useful
+haze->thin mist
+heed->pay attention to
+hesitant->reluctant
+hide->conceal yourself
+hike->a long walk
+hoax->a deception
+hollow->having empty space inside
+hope->something wished for
+humane->kind and considerate
+hurt->feel pain
+hypo->below normal
+idiot->a stupid person
+ignite->set on fire
+ignorant->lacking knowledge
+imitate->copy or mimic
+immortal->living forever
+impatient->restlessly eager
+inaugurate->begin or indroduce
+inform->give information
+interval->pause between two events
+irritate->annoy
+jackpot->a large cash prize
+jest->a joke
+jibe->an insulting remark
+jiggle->shake lightly
+jog->run at steady pace
+jolly->happy and cheerful
+jolt->shake abruptly
+joule->a unit of energy
+jumper->a pullover
+just->right and fair
+jute->a rough fibre
+keen->eager
+kennel->a shelter for a dog
+kill->put an end to
+kindle->light a flame
+knave->dishonest man
+knot->fastened string or rope
+kudos->praise and honour
+labour->work
+lag->fall behind
+lamp->a device for giving light
+lately->recently
+leap->jump high
+length->measurement from end to end
+lethal->able to cause death
+limp->walk with difficulty
+loud->making a lot of noise
+lurk->wait in hiding to attack
+lyrics->words of a song
+mad->insane
+maid->a female servant
+mall->a lagre shopping area
+mansion->a lagre house
+mean->intend
+meeting->organized gathering
+memorize->learn and remember
+mess->an untidy state
+mode->a way of doing something
+mood->a temporary state of mind
+motive->reason for doing something
+murmur->say quietly
+mystery->something unexplained
+nape->back of the neck
+naive->lacking experience
+nap->a short sleep
+needy->poor
+nest->bird's house
+nitrogen->a gas
+nostalgia->longing for a happier time in past
+nudge->push gently
+nurture->care for
+nylon->a synthetic fibre
+oath->a solemn promise
+oblivious->unaware
+offence->an illegal act
+offering->a gift or contribution
+onlooker->a spectator
+opaque->impossible to see through
+ordinary->normal
+outing->a short trip
+overlap->extend over to partly cover
+overrule->reject or disallow
+pact->a formal agreement
+page->a leaf of a book
+pair->a set of two things
+paradise->heaven
+pardon->forgiveness
+peek->look quickly
+penalty->a punishment for breaking law
+pending->waiting to be decided
+periodic->occuring at intervals
+pharmacy->where medical drugs are prepared
+pierce->make a hole with a sharp object
+plea->an emotional request
+prank->a mischievous act
+phophecy->a future prediction
+quadrilateral->a four sided figure
+quake->shake or tremble
+quarrel->an angry argument
+quartz->a hard mineral
+query->a question or doubt
+quest->a long search
+quiet->making no noise
+quilt->a padded bed covering
+quit->resign from something
+quiz->a competetion
+quota->a limited quantity allowed
+rag->a piece of old cloth
+rant->speak in a loud way
+recite->repeat aloud from memory
+recycle->convert waste to reusable form
+reign->rule as monarch
+release->set free
+remedy->treatment
+return->give back
+rough->not smooth
+ruin->destroy
+ruthless->having no pity
+sack->a large bag
+saga->a long story
+savage->fierce and violent
+scare->frighten
+scatter->throw in random directions
+sceptical->having doubts
+scheme->a systematic plan
+secret->kept from others
+shift->move from one position to other
+sleek->smooth and glossy
+speculate->form a theory
+subside->become less intense
+tattle->gossip
+tempest->a violent storm
+thermal->related to heat
+trample->crush
+traverse->travel across
+twirl->spin quickly
+tyro->a beginner
+ugly->unpleasant appearance
+unwise->foolish
+utilize->make use of
+vacant->not occupied
+vary->become different
+vast->huge
+verify->check
+vital->absolutely necessary
+vow->a solemn promise
+wag->move rapidly to and fro
+weird->strange
+wizard->a man with magical powers
+wrench->pull or twist violently
+wrong->not correct
+xenon->an inert gas
+xerox->a photocopy machine
+xylophone->a musical instrument
+yak->an animal
+yarn->spun thread
+yearn->feel longing
+yelp->a short sharp cry
+zeal->a great enthusiasm
+zebra->an animal with black and white stripes
+zenith->the point of greatest power
+zigzag->a line having sharp alternate left and right turns
+zip->a fastener
+zoo->a place where wide animals are kept
